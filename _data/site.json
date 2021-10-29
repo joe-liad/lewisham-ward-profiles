@@ -14,7 +14,7 @@
   "footer": "Made with ❤ in Lewisham",
   "enableDarkMode": true,
   "description": "Lewisham ward structure from May 2022",
-  "enableContact": false,
+  "enableContact": true,
   "navigationStyle": "vertical",
   "enableNetlifyCMS": true,
   "enableEditButton": true
