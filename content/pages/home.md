@@ -23,25 +23,3 @@ In the run up to the elections in May 2022, Lewisham's political map is being re
 ## Where are the new wards?
 
 <div class="embed-container" style="position: relative; padding-bottom: 320px; height: auto; overflow: hidden; max-width: 100%;"><iframe style="border: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://lb-lewisham.github.io/quattromap/"></iframe></div>
-
-## What are the new wards called?
-
-- Bellingham
-- Blackheath
-- Brockley
-- Catford South
-- Crofton Park
-- Deptford
-- Downham
-- Evelyn
-- Forest Hill
-- Grove Park
-- Hither Green
-- Ladywell
-- Lee Green
-- Lewisham Central
-- New Cross Gate
-- Perry Vale
-- Rushey Green
-- Sydenham
-- Telegraph Hill
