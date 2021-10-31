@@ -3,7 +3,7 @@ title: Lewisham Ward Profiles
 date: Last Modified 
 permalink: /
 eleventyNavigation:
-  key: lewisham-ward-profiles
+  key: home
   order: 0
   title: Lewisham Ward Profiles
 ---
