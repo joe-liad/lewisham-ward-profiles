@@ -22,4 +22,4 @@ In the run up to the elections in May 2022, Lewisham's political map is being re
 
 ## Where are the new wards?
 
-<div class="embed-container" style="position: relative; padding-bottom: 320px; height: auto; overflow: hidden; max-width: 100%;"><iframe style="border: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://lb-lewisham.github.io/quattromap/"></iframe></div>
+<div class="embed-container" style="position: relative; padding-bottom: 320px; height: auto; overflow: hidden; max-width: 100%;"><iframe style="border: 0; position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://lb-lewisham.github.io/quattromap/?settings=N4IgtgxiBcBMA0IIAsYgEYBsCGEDWIimAjGoSAPanQjkUAO1ADAHQCsRsZiFXNd9Pqw4hMAZjQBpAE4BTAJYBnAAQA1ebOmLZAO2UBBADKSAkgGU6EmjIUr1m7XoDms%2Bjh0AXWcoDis9AAnAK4AJrICVsJEACxoAHIASgDqygAiACqSdLH8PPQ5wgC%2BQA#10/51.4517/-0.0199"></iframe></div>
