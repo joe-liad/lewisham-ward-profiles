@@ -1,7 +1,7 @@
 {
   "enableGithubLink": false,
   "githubBranch": "main",
-  "emoji": "💥",
+  "emoji": "🧩",
   "enableEncryption": false,
   "enablePageNavigation": true,
   "enableSearch": true,
@@ -14,7 +14,7 @@
   "footer": "Made with ❤ in Lewisham",
   "enableDarkMode": true,
   "description": "Lewisham ward structure from May 2022",
-  "enableContact": true,
+  "enableContact": false,
   "navigationStyle": "vertical",
   "enableNetlifyCMS": true,
   "enableEditButton": true
