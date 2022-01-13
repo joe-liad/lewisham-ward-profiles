@@ -5,6 +5,7 @@ permalink: test
 eleventyNavigation:
   order: 100
   key: test
+  title: test
 ---
 ```python
 !pwd
